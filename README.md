@@ -1,2 +1,3 @@
 # diamond-sutra
-don't seek dharma (appearance, laws)
+Seek not dharma (appearance, laws)
+but truth.
